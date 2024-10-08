@@ -36,10 +36,10 @@ sections:
       - type: FeaturedItem
         title: 'Safe, Secure Housing:'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We offer safe, welcoming spaces for individuals and families in need
+          of housing assistance. From short-term emergency accommodations to
+          long-term permanent housing, we’ve got you covered.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
