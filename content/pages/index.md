@@ -177,11 +177,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "At\_**AmeriTechies**, we know that housing is more than just a roof over your head—it’s the foundation for building a life filled with hope, stability, and opportunity. Our compassionate team is here to guide and support you as you take steps toward lasting independence and success. Together, we can help you turn your challenges into opportunities and your setbacks into stepping stones.\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
