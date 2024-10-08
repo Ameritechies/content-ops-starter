@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Mark & Lisa – Overcoming Physical Health Challenges and Finding Stability
 slug: case-study-3
 date: '2024-09-10'
 excerpt: >-
