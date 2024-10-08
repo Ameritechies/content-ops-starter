@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "At\_**Ameritechies**, we believe that a stable home is the foundation of a fulfilling and empowered life. Our mission is to provide compassionate, comprehensive housing support that transforms lives and strengthens communities. Whether you're looking for a safe place to rebuild, ongoing support in your recovery journey, or assistance in finding permanent housing, we are here for you every step of the way.\n"
     actions:
       - label: Get started
         altText: ''
