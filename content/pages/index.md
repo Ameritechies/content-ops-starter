@@ -11,7 +11,7 @@ sections:
     text: "At\_**Ameritechies**, we believe that a stable home is the foundation of a fulfilling and empowered life. Our mission is to provide compassionate, comprehensive housing support that transforms lives and strengthens communities. Whether you're looking for a safe place to rebuild, ongoing support in your recovery journey, or assistance in finding permanent housing, we are here for you every step of the way.\n"
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/empathy-logo.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
