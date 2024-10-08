@@ -332,8 +332,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "AmeriTechies gave me more than a place to live—they gave me a place
+          to grow. Today, I feel empowered and hopeful for the future."— Alex,
+          Program Participant
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
