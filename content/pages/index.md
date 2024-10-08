@@ -35,7 +35,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Safe, Secure Housing:'
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           We offer safe, welcoming spaces for individuals and families in need
           of housing assistance. From short-term emergency accommodations to
