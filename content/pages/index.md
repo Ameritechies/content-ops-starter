@@ -360,9 +360,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: "\"With their help, I found a home and regained my independence. I can finally focus on my career and personal growth.\"—\_Sarah, Program Participant"
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
