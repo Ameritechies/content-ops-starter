@@ -332,7 +332,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          "AmeriTechies gave me more than a place to live—they gave me a place
+          "AmeriTechies gave me more than a place to live. They gave me a place
           to grow. Today, I feel empowered and hopeful for the future."— Alex,
           Program Participant
         tagline: Testimonial 1
