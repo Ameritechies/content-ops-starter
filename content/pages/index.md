@@ -305,7 +305,6 @@ sections:
     text: "\U0001F4CD 1304 E Lake St Ste 201 Minneapolis, MN 55407\n\n\n\U0001F4DE 612-438-4416\n\n\n\U0001F4E7 <Office@ameritechies.com>\n"
     actions: []
     media:
-      url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
