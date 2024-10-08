@@ -1,15 +1,14 @@
 ---
-title: Case study 3
+title: Mark & Lisa – Overcoming Physical Health Challenges and Finding Stability
 slug: case-study-3
-date: '2021-11-18'
+date: '2024-09-10'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/avatar6.svg
   altText: Case study 3
   styles:
     self:
@@ -88,19 +87,26 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> **Background:**
+> Mark and Lisa, a couple in their early 40s, experienced a sudden crisis when Mark developed a chronic illness that left him unable to work. The mounting medical bills, combined with the loss of income, led to housing instability. Lisa, now a full-time caregiver, struggled to find work while supporting her husband. Facing homelessness and overwhelming financial strain, they turned to **AmeriTechies** for help.
 >
-> _By Laura Gómez - Product Marketing Manager_
+> **Challenges:**
+>
+> *   Mark’s chronic illness and inability to work
+>
+> *   Mounting medical expenses
+>
+> *   Risk of homelessness due to financial strain
+>
+> **Solution:**
+> Mark and Lisa were welcomed into our **Housing Support Program**, which focuses on individuals and families dealing with physical health challenges. Our team helped them access healthcare services for Mark’s condition, while navigating financial assistance programs basic needs. Lisa was connected with job placement services, and both received financial counseling to manage their expenses more effectively.
+>
+> **Results:**
+> Mark’s health is now stable, and with medical expenses under control, the couple transitioned into permanent affordable housing. Lisa found part-time work, and with ongoing financial management support, they are steadily rebuilding their financial security. Both are now active members of our community, participating in wellness and peer-support programs to help others facing similar challenges.
+>
+> *"We thought we were going to lose everything. **AmeriTechies** gave us a safe place and helped us manage Mark’s health issues, all while keeping us together as a family."*
+>
+> **
+>
+> *Names have been changed to keep patients confidentiality.* 
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
