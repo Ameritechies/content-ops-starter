@@ -128,7 +128,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Your New Beginning Starts Here
       color: text-primary
       styles:
         self:
