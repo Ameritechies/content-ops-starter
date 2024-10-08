@@ -29,6 +29,24 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Overview of Housing Stabilization
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: "Housing Stabilization Services is a Medical Assistance benefit to help people with disabilities and seniors find and keep housing. Housing Stabilization Services are state plan (not waiver) Home and Community-Based Services (HCBS).\n\n\n\n*   A member is eligible for housing stabilization services if they meet all of the following needs-based criteria:\n\n*   Be on Medical Assistance (MA)\n\n*   Be 18 years old or older\n\n*   Have a documented disability or disabling condition, defined as one of the following:\n\n    *   A person who is aged, blind or has a disability as described under Title II of the Social Security Act.\n\n    *   A person with an injury or illness that is expected to cause extended or long-term incapacitation.\n\n    *   A person with a developmental disability (or related condition) or mental illness.\n\n    *   A person with a mental health condition, substance use disorder or physical injury that required a residential level of care and who is now in the process of transitioning to the community.\n\n    *   A person who is determined to have a learning disability according to policy adopted by Minnesota Department of Human Services (DHS); or\n\n    *   A person with a substance use disorder and is enrolled in a treatment program or is on a waiting list for a treatment program.\n\n*   Be assessed to require assistance with at least one of the following areas resulting from the presence of a disability or a long-term or indefinite condition:\n\n    *   Communication\n\n    *   Mobility\n\n    *   Decision-making; or\n\n    *   Managing challenging behaviors\n\n*   Be experiencing housing instability, evidenced by one of the following risk factors:\n\n    *   Homeless. An individual or family is considered homeless when they lack a fixed, adequate nighttime residence; or\n\n    *   Currently transitioning, or has recently transitioned, from an institution or licensed or registered setting (registered housing with services facility, board and lodge, boarding care, adult foster care or community residential setting, hospital, Intermediate Care Facility for persons with Developmental Disabilities (ICF/DD), intensive residential treatment services, the Minnesota Security Hospital, nursing facility, regional treatment center); or\n\n    *   At risk of homelessness. An individual or family is at risk of homelessness when\n\n    *   the individual or family is faced with a situation or set of circumstances likely to cause the household to become homeless, including but not limited to: doubled-up living arrangements where the individual’s name is not on a lease, living in a condemned building without a place to move, having arrears in rent or utility payments, receiving an eviction notice without a place to move or living in temporary or transitional housing that carries time limits; or\n\n    *   the person, previously homeless, will be discharged from a correctional, medical, mental health or substance use disorder treatment center and lacks sufficient resources to pay for housing, and does not have a permanent place to live; would be at risk of homelessness if housing services were removed\n\n*   At risk of institutionalization – meets an intuitional level of care/eligible for the following waivers:\n\n    *   Brain Injury (BI)\n\n    *   Community Access for Disability Inclusion (CADI)\n\n    *   Community Alternative Care (CAC)\n\n    *   Developmental Disability (DD)\n\n    *   Elderly Waiver (EW)\n\n\n\n### Eligible Members\n\n*   An assessment (MNChoices, Professional Statement of Need (PSN), or coordinated entry) not more than 12 months old at Housing Stabilization Services eligibility review.\n\n*   Proof of disability (PSN, medical opinion form, SSI/SSDI recipient)\n\n*   Person-Centered Plan (community services and support plan, coordinated care plan (seniors),\_[Housing-Focused Person-Centered Plan](https://edocs.dhs.state.mn.us/lfserver/Public/DHS-7307-ENG))\n\n"
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     subtitle: 'What We Offer:'
     items:
@@ -130,24 +148,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Overview of Housing Stabilization
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: "Housing Stabilization Services is a Medical Assistance benefit to help people with disabilities and seniors find and keep housing. Housing Stabilization Services are state plan (not waiver) Home and Community-Based Services (HCBS).\n\n\n\n*   A member is eligible for housing stabilization services if they meet all of the following needs-based criteria:\n\n*   Be on Medical Assistance (MA)\n\n*   Be 18 years old or older\n\n*   Have a documented disability or disabling condition, defined as one of the following:\n\n    *   A person who is aged, blind or has a disability as described under Title II of the Social Security Act.\n\n    *   A person with an injury or illness that is expected to cause extended or long-term incapacitation.\n\n    *   A person with a developmental disability (or related condition) or mental illness.\n\n    *   A person with a mental health condition, substance use disorder or physical injury that required a residential level of care and who is now in the process of transitioning to the community.\n\n    *   A person who is determined to have a learning disability according to policy adopted by Minnesota Department of Human Services (DHS); or\n\n    *   A person with a substance use disorder and is enrolled in a treatment program or is on a waiting list for a treatment program.\n\n*   Be assessed to require assistance with at least one of the following areas resulting from the presence of a disability or a long-term or indefinite condition:\n\n    *   Communication\n\n    *   Mobility\n\n    *   Decision-making; or\n\n    *   Managing challenging behaviors\n\n*   Be experiencing housing instability, evidenced by one of the following risk factors:\n\n    *   Homeless. An individual or family is considered homeless when they lack a fixed, adequate nighttime residence; or\n\n    *   Currently transitioning, or has recently transitioned, from an institution or licensed or registered setting (registered housing with services facility, board and lodge, boarding care, adult foster care or community residential setting, hospital, Intermediate Care Facility for persons with Developmental Disabilities (ICF/DD), intensive residential treatment services, the Minnesota Security Hospital, nursing facility, regional treatment center); or\n\n    *   At risk of homelessness. An individual or family is at risk of homelessness when\n\n    *   the individual or family is faced with a situation or set of circumstances likely to cause the household to become homeless, including but not limited to: doubled-up living arrangements where the individual’s name is not on a lease, living in a condemned building without a place to move, having arrears in rent or utility payments, receiving an eviction notice without a place to move or living in temporary or transitional housing that carries time limits; or\n\n    *   the person, previously homeless, will be discharged from a correctional, medical, mental health or substance use disorder treatment center and lacks sufficient resources to pay for housing, and does not have a permanent place to live; would be at risk of homelessness if housing services were removed\n\n*   At risk of institutionalization – meets an intuitional level of care/eligible for the following waivers:\n\n    *   Brain Injury (BI)\n\n    *   Community Access for Disability Inclusion (CADI)\n\n    *   Community Alternative Care (CAC)\n\n    *   Developmental Disability (DD)\n\n    *   Elderly Waiver (EW)\n\n\n\n### Eligible Members\n\n*   An assessment (MNChoices, Professional Statement of Need (PSN), or coordinated entry) not more than 12 months old at Housing Stabilization Services eligibility review.\n\n*   Proof of disability (PSN, medical opinion form, SSI/SSDI recipient)\n\n*   Person-Centered Plan (community services and support plan, coordinated care plan (seniors),\_[Housing-Focused Person-Centered Plan](https://edocs.dhs.state.mn.us/lfserver/Public/DHS-7307-ENG))\n\n"
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
