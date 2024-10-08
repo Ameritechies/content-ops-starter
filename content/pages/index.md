@@ -222,11 +222,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\n\n*   **People First:**\_We put your needs at the center of everything we do, creating a welcoming, non-judgmental environment where you feel supported.\n\n*   **Empowerment Through Action:**\_We help you regain control of your future, offering the tools and resources to become self-sufficient and confident in your next chapter.\n\n*   **A Sense of Belonging:**\_We build communities where everyone feels included and valued. When you join us, you become part of a supportive family, rooted in mutual respect and understanding.\n\n"
     actions: []
     media:
       title: Title of the video
