@@ -31,19 +31,6 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    title:
-      text: >-
-        We understand that life's challenges can feel overwhelming, but you're
-        not alone. [Your Service Name] is dedicated to offering housing
-        solutions tailored to your unique needs. Our team is committed to
-        helping you achieve long-term stability and personal growth, ensuring
-        that your new home becomes the springboard for a brighter future.
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-      type: TitleBlock
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
