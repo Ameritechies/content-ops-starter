@@ -87,7 +87,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: 'Community Integration:'
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
