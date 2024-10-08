@@ -89,10 +89,10 @@ sections:
         type: FeaturedItem
       - title: 'Community Integration:'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We believe in the power of community. We create opportunities for
+          social connection, education, and growth through our workshops,
+          events, and peer-support groups.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
