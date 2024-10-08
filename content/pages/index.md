@@ -215,7 +215,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a videoWhy Choose Us?
+      text: Why Choose Us?
       color: text-dark
       styles:
         self:
