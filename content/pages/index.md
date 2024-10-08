@@ -363,10 +363,8 @@ sections:
       - title: "\"With their help, I found a home and regained my independence. I can finally focus on my career and personal growth.\"—\_Sarah, Program Participant"
         tagline: Testimonial 2
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Name has been changed to keep patient confidential
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
