@@ -256,7 +256,10 @@ sections:
       text: How We Can Help You
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      We believe in the power of partnership and personalized care. Our services
+      are designed to meet you where you are and help you move forward with
+      confidence. Here’s how we can assist:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
