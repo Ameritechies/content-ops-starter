@@ -302,7 +302,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: "\U0001F4CD \\[Address]\n\U0001F4DE \\[Phone Number]\n\U0001F4E7 \\[Email Address]\n"
+    text: "\U0001F4CD 1304 E Lake St Ste 201 Minneapolis, MN 55407\n\U0001F4DE 612-438-4416\n\U0001F4E7 Office\\@ameritechies.com\n"
     actions:
       - label: Get started
         url: /
