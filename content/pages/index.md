@@ -177,26 +177,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: "At\_**AmeriTechies**, we know that housing is more than just a roof over your head—it’s the foundation for building a life filled with hope, stability, and opportunity. Our compassionate team is here to guide and support you as you take steps toward lasting independence and success. Together, we can help you turn your challenges into opportunities and your setbacks into stepping stones.\n"
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: ''
       color: text-primary
