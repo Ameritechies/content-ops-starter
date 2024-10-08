@@ -1,7 +1,7 @@
 ---
 title: Alex’s Journey to Stability through Mental Health Support
 slug: case-study-1
-date: '2024-06-05'
+date: '2024-06-07'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
