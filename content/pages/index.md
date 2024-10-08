@@ -304,12 +304,6 @@ sections:
     subtitle: Be in good company
     text: "\U0001F4CD 1304 E Lake St Ste 201 Minneapolis, MN 55407\n\n\n\U0001F4DE 612-438-4416\n\n\n\U0001F4E7 <Office@ameritechies.com>\n"
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
