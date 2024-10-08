@@ -34,7 +34,7 @@ sections:
     subtitle: 'What We Offer:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'Safe, Secure Housing:'
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
