@@ -302,9 +302,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: "\U0001F4CD \\[Address]\n\U0001F4DE \\[Phone Number]\n\U0001F4E7 \\[Email Address]\n"
     actions:
       - label: Get started
         url: /
