@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Sarah’s Path to Recovery from Substance Use Disorder
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
