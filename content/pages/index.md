@@ -31,7 +31,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: 'What We Offer:'
     items:
       - type: FeaturedItem
         title: 500k
