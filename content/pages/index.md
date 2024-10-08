@@ -64,10 +64,10 @@ sections:
               borderRadius: x-large
       - title: 'Holistic Support:'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We provide personalized case management, connecting you with resources
+          for financial aid, job training, counseling, and health services to
+          help you thrive in all aspects of life.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
