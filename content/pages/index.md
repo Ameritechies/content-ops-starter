@@ -337,10 +337,8 @@ sections:
           Program Participant
         tagline: Testimonial 1
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Name has been changed to keep patient confidential
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
