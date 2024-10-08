@@ -336,7 +336,7 @@ sections:
           to grow. Today, I feel empowered and hopeful for the future."— Alex,
           Program Participant
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
