@@ -260,9 +260,17 @@ sections:
       We believe in the power of partnership and personalized care. Our services
       are designed to meet you where you are and help you move forward with
       confidence. Here’s how we can assist:
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+
+
+      *   **Affordable Housing Assistance**
+
+      *   **Mental Health and Addiction Recovery Support**
+
+      *   **Employment and Skills Development Programs**
+
+      *   **Financial Counseling and Budgeting Help**
+
     actions:
       - label: Get started
         url: /
